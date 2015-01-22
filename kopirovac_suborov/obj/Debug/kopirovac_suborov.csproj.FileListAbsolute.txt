@@ -1,0 +1,10 @@
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\bin\Debug\kopirovac_suborov.exe.config
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\bin\Debug\kopirovac_suborov.exe
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\bin\Debug\kopirovac_suborov.pdb
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.Properties.Resources.resources
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.csproj.GenerateResource.Cache
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.exe
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.pdb
+c:\users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.csprojResolveAssemblyReference.cache
+C:\Users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.OknoOPrograme.resources
+C:\Users\copjak\documents\visual studio 2013\Projects\kopirovac_suborov\kopirovac_suborov\obj\Debug\kopirovac_suborov.OknoMain.resources
