@@ -10,7 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//TODO: daco
 namespace kopirovac_suborov
 {
     public partial class OknoMain : Form
